@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.goodporn.to	TRUE	/	FALSE	1999999999	PHPSESSID	h0et4mhd48bu92i17q608i2chq
+.goodporn.to	TRUE	/	FALSE	1999999999	kt_ips	2409%3A4041%3A2e0d%3A9324%3A8b2%3Ab931%3A7bee%3A6c5f
+goodporn.to	TRUE	/	FALSE	1999999999	SameSite	Lax
+
